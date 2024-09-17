@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)align="center">
+[![MasterHead](![image](https://github.com/user-attachments/assets/147db298-abf6-43e8-91ef-0b1a6145e7d2))]
 
 <h1 align="center">Hi 👋, I'm Asfiya Hussain</h1>
 <h3 align="center">I AM CURRENTLY PURSUING MERN STACK DEVELOPMENT.</h3>
